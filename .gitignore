@@ -1,0 +1,14 @@
+# Unreal build and cache output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
