@@ -1,4 +1,4 @@
-# Unreal build and cache output
+build/
 Binaries/
 DerivedDataCache/
 Intermediate/
