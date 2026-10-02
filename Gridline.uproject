@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "Gridline foundation; no playable content yet",
+  "Modules": [
+    {
+      "Name": "Gridline",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
